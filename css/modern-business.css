@@ -56,6 +56,10 @@ body {
     border-color: black;
 }
 
+.navbar-brand {
+    font-family: 'Gentium Book Basic', serif;
+}
+
 
 .card {
     margin: 0 auto; /* Added */
