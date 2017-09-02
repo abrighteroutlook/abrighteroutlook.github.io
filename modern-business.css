@@ -1,0 +1,89 @@
+/*!
+ * Start Bootstrap - Modern Business (http://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+.navbar {
+    background-color: #336799 !important;
+}
+
+
+body {
+    padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+    body {
+        padding-top: 56px;
+    }
+}
+
+.btn btn-lg btn-secondary btn-block {
+    background-color: #336799;
+}
+
+.img-rounded {
+    border-radius: 25px;
+    padding: 20px;  
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.navbar-left > img {
+    height: 50px;
+    width: 90px;
+}
+
+.motto {
+    font-family: 'Courgette', cursive;
+}
+
+.myCaro {
+    border-style: solid;
+    border-color: black;
+}
+
+.navbar-brand {
+    font-family: 'Gentium Book Basic', serif;
+}
+
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+}
+
+.img-caption {
+    float: none;
+    text-align: center;
+}
+
+.center-img {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    display: block;
+}
+
+footer {
+    text-align: center;
+    background-color: #336799 !important;
+}
+
+.py-5 {
+    background-color: #336799 !important;
+}
+
+/* Made By Jason Davidoff 2017 */
