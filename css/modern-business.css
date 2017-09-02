@@ -58,6 +58,9 @@ body {
 
 .navbar-brand {
     font-family: 'Gentium Book Basic', serif;
+    font-size: 22px;
+    letter-spacing: 2px;
+    
 }
 
 
